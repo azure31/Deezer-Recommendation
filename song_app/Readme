@@ -1,0 +1,8 @@
+Basic Shiny App to view song popularity over time
+
+Steps:
+1. Download song_app 
+2. In rstudio, load train data in same working directory as song_app
+2. Install dependencies- ggplot2, shiny
+3. > runApp("song_app")
+
